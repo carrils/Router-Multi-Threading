@@ -1,0 +1,12 @@
+PB Print service charge: 700.0, PB Data service charge: 1080.0, Total cost of service charges for branch: 1780.0
+Total number of characters processed for Data for Production Branch: 135000.0
+Total number of characters processed for Print for Production Branch: 100000.0
+
+FB Print service charge: 1071.0, FB Data service charge: 1050.0, Total cost of service charges for branch: 2121.0
+Total number of characters processed for Data for Production Branch: 150000.0
+Total number of characters processed for Print for Production Branch: 119000.0
+
+MB Print service charge: 3182.5, MB Data service charge: 1148.0, Total cost of service charges for branch: 4330.5
+Total number of characters processed for Data for Production Branch: 140000.0
+Total number of characters processed for Print for Production Branch: 335000.0
+
